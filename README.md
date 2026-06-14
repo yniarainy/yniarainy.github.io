@@ -6,5 +6,10 @@
 
 大家好，我是Rainy，来自中国海洋大学一名博士生。
 
+<p align="center">
+  <img src="weixin.jpg" alt="微信公众号" >
+</p>
+
+<p align="center"> 我的微信公众号 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yniarainy&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
