@@ -6,6 +6,8 @@
 
 大家好，我是Rainy，来自中国海洋大学一名博士生。
 
+欢迎大家来看我的博客:[独自赏晴雨的博客](https://blog-one-beryl-14.vercel.app/)
+
 <p align="center">
   <img src="weixin.jpg" alt="微信公众号" >
 </p>
