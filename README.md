@@ -8,6 +8,8 @@
 
 欢迎大家来看我的博客:[独自赏晴雨的博客](https://blog-one-beryl-14.vercel.app/)
 
+我做了一个项目，可以自动抓取最近的渔业论文，并总结展示。[渔业论文每天更新](https://fc-han.github.io/fishery-paper/),如果想要自己部署,其[github仓库](https://github.com/FC-Han/fishery-paper),欢迎大家来访问。
+
 <p align="center">
   <img src="weixin.jpg" alt="微信公众号" >
 </p>
